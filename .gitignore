@@ -1,0 +1,5 @@
+# Ignore Rproj file
+example_proj2.Rproj
+
+# Ignore README.html
+README.html
